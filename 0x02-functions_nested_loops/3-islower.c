@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
-*main - _islower function
+*_islower - function
 *
-*description: to evaluate c
+*@c: The character to evaluate
 *Return: Get 1 if c is uppercase,
 *get 0 otherwise
 */
