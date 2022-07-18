@@ -2,7 +2,6 @@
 #define MAIN_H
 /**
  * File: main.h
- * Auth: Ben Bera
  * Desc: Header file containing prototypes for all functions
  *       used in the 0x05-pointers_arrays_strings directory.
  */
