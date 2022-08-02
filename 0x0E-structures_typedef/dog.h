@@ -21,9 +21,9 @@ struct dog
 	char *owner;
 };
 
-typedef struct dog;
-
-void init_dog(struct dog *d, char *name, float age, char *owner);
-void print_dog(struct dog *d);
-
-#endif
+struct dog *dog(char *name, float age, char *owner)
+{
+	struct dog *dog;
+	
+	return dog;
+}
